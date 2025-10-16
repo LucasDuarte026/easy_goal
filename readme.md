@@ -1,3 +1,10 @@
+# sob desenvolvimento
+---
+---
+---
+---
+---
+---
 # ⚽ Sistema de Captura de Highlights Esportivos com Raspberry Pi
 
 ## 📌 Visão Geral
